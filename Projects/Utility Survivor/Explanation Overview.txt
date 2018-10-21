@@ -1,0 +1,9 @@
+As this is one of my bigger projects on showcase, I have grouped the scripts into 4 folders. In each folder is further explanation about how the scripts work and interact. Please bear in mind these are just some of the scripts the game uses, they may make use of scripts not available here.
+
+Camera contains ...***
+
+Pathing contains ...***
+
+Storage and Campfire contains ...***
+
+Task Selection and Deployment contains ...***

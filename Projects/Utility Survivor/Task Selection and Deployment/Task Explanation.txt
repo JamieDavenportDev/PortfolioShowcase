@@ -1,0 +1,5 @@
+Here is the most notable section of the project.
+
+CharacterTaskDeployer uses UtilityScoring as well as other scripts to act as a central point in the AI logic. It uses ...*** to achieve ...***
+
+UtilityScoring ...***

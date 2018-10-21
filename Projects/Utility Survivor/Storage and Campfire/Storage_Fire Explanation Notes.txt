@@ -1,0 +1,3 @@
+StorageScript is a generic script used for more than one storage object type. It does ...*** by ...***
+
+CampfireScript handles ...*** by ...***

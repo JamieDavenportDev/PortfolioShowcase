@@ -1,0 +1,5 @@
+These two scripts, 'Path_Node.cs' and 'PathFinding.cs', make up part of the AI's movement logic.
+
+Another script calls ...*** in ...*** to get a path. Path_Node is used to represent a point and ...***
+
+PathFinding uses a ...*** algorithm ...***

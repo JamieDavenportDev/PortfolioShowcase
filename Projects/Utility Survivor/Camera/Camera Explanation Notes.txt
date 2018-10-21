@@ -1,0 +1,5 @@
+These two scripts, 'CameraClearView.c' and 'TransparencyScript.cs', are responsible for model transparency in the case of it blocking the camera view.
+
+CameraClearView does ...*** by ...***
+
+TransparencyScript handles ...*** by ...***

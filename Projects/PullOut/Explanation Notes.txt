@@ -1,0 +1,5 @@
+The scripts I have selected to showcase for this project are "GameManagerScript.cs" and "MoveToEgg.cs".
+
+The game manager script handles... ****
+
+MoveToEgg script uses ... ***... to do ... ***

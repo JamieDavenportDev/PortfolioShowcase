@@ -1,0 +1,9 @@
+This project is focused on the flocking mechanism and turning it into an enjoyable playing experience.
+
+FlockWithGroup controls ...*** by ...***
+
+GameManager handles main game logic and utilises other scripts to run the game. It notably does ...***
+
+MagnetizedByPlayer handles ...*** by ...***
+
+StarTwoCollider is the behaviour script for ...***, it works by ...***

@@ -1,0 +1,21 @@
+Not Done:
+
+Camera
+-Explanation
+-CameraClearView.cs
+-TransparencyScript.cs
+
+Pathing
+-Explanation
+-Path_Node.cs
+-PathFinding.cs
+
+Storage and Campfire
+-Explanation
+-CampfireScript.cs
+-StorageScript.cs
+
+Task Selection and Deployment
+-Explanation
+-CharacterTaskDeployer.cs
+-UtilityScoring.cs
