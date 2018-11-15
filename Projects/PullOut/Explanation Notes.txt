@@ -1,5 +1,5 @@
 The scripts I have selected to showcase for this project are "GameManagerScript.cs" and "MoveToEgg.cs".
 
-The game manager script handles... ****
+The game manager script handles most of the game code; pausing, adverts, spawning and handling waves, detecting touches etc
 
-MoveToEgg script uses ... ***... to do ... ***
+MoveToEgg script uses assigned values to move itself (a sperm) towards the egg, as well as rotating along the circle to give a swim effect. It also detects if it collides with the egg to call the EndGame function in GameManager.
