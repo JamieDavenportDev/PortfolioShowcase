@@ -1,7 +1,0 @@
-Not Done:
-
-Explanation
-FlockWithGroup.cs
-GameManager.cs
-MagnetizedByPlayer.cs
-StarTwoCollider.cs
